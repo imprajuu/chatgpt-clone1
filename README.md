@@ -14,12 +14,14 @@ AstraMind is a modern, mobile-friendly chat application built with **React Nativ
 
 ## Screenshots
 
-![Profile Screen](assets/images/profile.jpeg)
-![Chat Screen](assets/images/chatscreen.jpeg)
-![Chat Screen 2](assets/images/chatscreen2.jpeg)
-![Dark Chat Screen](assets/images/darkchatscreen.jpeg)
-![Dark Mode Delete](assets/images/darkmodedelete.jpeg)
-![Custom Drawer](assets/images/customdrawer.jpeg)
+<p align="center">
+   <img src="assets/images/profile.jpeg" alt="Profile Screen" width="250" />
+   <img src="assets/images/chatscreen.jpeg" alt="Chat Screen" width="250" />
+   <img src="assets/images/chatscreen2.jpeg" alt="Chat Screen 2" width="250" />
+   <img src="assets/images/darkchatscreen.jpeg" alt="Dark Chat Screen" width="250" />
+   <img src="assets/images/darkmodedelete.jpeg" alt="Dark Mode Delete" width="250" />
+   <img src="assets/images/customdrawer.jpeg" alt="Custom Drawer" width="250" />
+</p>
 
 ## Setup Instructions
 
