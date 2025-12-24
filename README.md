@@ -1,6 +1,8 @@
 # AstraMind Chat App
 
-AstraMind is a modern, mobile-friendly chat application built with React Native and Firebase. It features persistent chat history, dark mode, user authentication, intuitive UI inspired by ChatGPT.
+## Description
+
+AstraMind is a modern, mobile-friendly chat application built with **React Native**, **Expo**, and **Firebase**. It provides a ChatGPT-style experience with persistent chat history, dark/light themes, and smooth UI animations. The app is currently wired to a Groq-powered assistant behind the scenes, giving you fast AI responses in a familiar chat interface.
 
 ## Features
 - Secure user authentication (signup/login)
@@ -9,6 +11,32 @@ AstraMind is a modern, mobile-friendly chat application built with React Native 
 - Dark mode and light mode support
 - Profile editing and logout
 - Animated, modern UI
+
+## Screenshots
+
+Add your app screenshots to the repository (for example in `assets/screenshots/`) and update the paths below so they render on GitHub.
+
+```text
+assets/
+   images/
+      profile.jpeg
+      chatscreen.jpeg
+      chatscreen2.jpeg
+      darkchatscreen.jpeg
+      darkmodedelete.jpeg
+      customdrawer.jpeg
+     
+
+
+```
+
+These are already in your project, so they will render on GitHub immediately:
+
+![App Icon](assets/images/icon.png)
+![Splash Screen](assets/images/splash-icon.png)
+![React Logo](assets/images/react-logo.png)
+
+To use real phone screenshots instead, add them to a folder such as `assets/screenshots/` and update the image paths above to point to your own PNG/JPG files.
 
 ## Setup Instructions
 
